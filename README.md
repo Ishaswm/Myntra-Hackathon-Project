@@ -1,2 +1,2 @@
-# Myntra-Hackathon-Project
-AI Driven Trend Centric Recommendation 
+# Myntra HackerRamp: WeForShe 2024
+AI Driven Trend Centric Recommendation Model
